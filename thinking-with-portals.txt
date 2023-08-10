@@ -1,0 +1,21 @@
+UI Contribution (25). How significant is the UI contribution of the project? Is the project simply an application, or does it have a substantial focus on new UI technology? How novel and creative is the system?
+25
+
+Technical Complexity (25). Projects should represent a substantial implementation effort.
+25
+
+Usability (25). Does the project work as intended?  Are there any serious usability problems or bugs? 
+20
+
+Documentation (5).  Are all the functions sufficiently described in the documentation?
+5
+
+Comments:
+
+This is a creative and challenging project.  The exploration of portals in VR is quite interesting, and the integration with the WIM was particularly novel.  I could tell you put a lot of work into making the portals work, which is commendable.  
+
+I did encounter some bugs in some of the interactions.  In particular, the WIM appears to have colliders attached that causing collision issues, which made locomotion freak out and made me fall into infinity several times.
+
+The graphical implementation of portals in VR is complicated, so I did not deduct any points for the visual texture.
+
+"It made shoes for orphans.  Nice job breaking it, hero."
